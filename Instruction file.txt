@@ -1,0 +1,9 @@
+This is an instruction file as to how the web pages will be linked to each other.
+
+the mainpage aka index.html will be the mainpage or the welcome page of the website.
+it will contain 3 initial links 
+1. Galery
+2. Contact Us
+3. Menu
+
+For the plan as of 18th Feb 2018, These are the only 4 Web Pages Planned for the website.
